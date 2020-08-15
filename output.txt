@@ -1,23 +1,5 @@
-OCR_1 output:
-Port of Loading :ICD THAR DRY PORT KA
-Port of Discharge:Norfolk
-Gross Wt(KGS)  :12320.000
-Country of Dest :UNITED STATES
-Total Pkgs. : 2800
-Loose pckts : 0
-No.of Ctrs. : 2
-IEC :X
-Net Wt(KGS) :10920.000
 
 OCR_2 output:
-size
-1)40
-2)40
-Date
-1)/20-FEB-20
 CTR No
 1)TCLU4990548
 2)FCIU3982469
-Seal No.
-1)BOLTO1192950
-2)BOLT01192979
